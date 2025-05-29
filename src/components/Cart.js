@@ -1,7 +1,6 @@
 import styled from "styled-components"
 import {useCart} from "react-use-cart"
 
-
 const Body=styled.div`
     display: flex;
     width :100%;

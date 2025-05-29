@@ -4,7 +4,7 @@ import Form from "react-bootstrap/Form"
 import { useCart } from 'react-use-cart';
 import styled from 'styled-components';
 import { useContext} from "react"
-import { UserContext } from "./ContextUser"
+import { UserContext } from "../contexts/ContextUser"
 
 const Button=styled.button`
 padding : 5px 8px ;
