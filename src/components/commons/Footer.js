@@ -50,7 +50,7 @@ export default function Footer(){
                 <div className="mb-3 mx-2">
                   Created by 
                   <a
-                      href="https://charlot-dedjinou.vercel.app"
+                      href="https://charlotdedjinou.com"
                       className="fw-bold text-white text-decoration-none"
                   >
                   <b className="mx-2">Charlot DEDJINOU</b></a>
